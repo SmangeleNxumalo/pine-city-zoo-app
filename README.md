@@ -1,0 +1,1 @@
+The Pine City Zoo app, a tour app for a fictional zoo, provides visitors with tools to plan their visit, including a map, animal information, and a weather page. It can also offer features like virtual queuing to manage crowds, as well as voucher and news sections with up-to-date information.
